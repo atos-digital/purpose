@@ -392,3 +392,15 @@ section.has-light-background h4 {
 .reveal small code {
   vertical-align: baseline;
 }
+
+.navigate-down .control-arrow {
+  color: white;
+}
+
+.navigate-left .controls-arrow,
+.navigate-right .controls-arrow,
+.navigate-up .controls-arrow,
+.navigate-down .controls-arrow {
+  font-size: 12px;
+  color: white;
+}
